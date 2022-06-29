@@ -1,1 +1,55 @@
-/* Write your CSS here! */
+#GNOlogo
+	{
+		width:35%;
+		max-width:50%;
+		display:block;
+		margin: 0 auto; 
+		padding: 1em ;
+	}
+    #GNOAd
+	{
+		width:60%;
+		max-width:60%;
+		display:block;
+		margin: 0 auto; 
+		padding: 1em ;
+	}
+	#GNOHeart
+	{
+		width:60%;
+		max-width:60%;
+		display:block;
+		margin: 0 auto; 
+		padding: 1em ;
+	}
+	#GNOSmooch
+	{
+		width:60%;
+		max-width:60%;
+		display:block;
+		margin: 0 auto; 
+		padding: 1em ;
+	}#GNOTheGirls
+	{
+		width:60%;
+		max-width:60%;
+		display:block;
+		margin: 0 auto; 
+		padding: 1em ;
+	}
+	body {
+		margin: 8px;
+		display:block;
+		max-width: 80%;
+		background-color: plum;
+		font-style: italic;
+		font-size: 16px;
+		
+	}
+#mainHeading
+ { color: darkmagenta; 	
+text-align: center;}
+p.funParagraph
+{ color: deeppink;}
+
+h2{text-align: center;}
